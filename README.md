@@ -1,4 +1,4 @@
-Reproduce the [cargo](https://github.com/rust-lang/cargo) issue https://github.com/rust-lang/cargo/issues/3536
+Reproduce the [cargo](https://github.com/rust-lang/cargo) issue [#3536](https://github.com/rust-lang/cargo/issues/3536)
 
 ## How to reproduce?
 
