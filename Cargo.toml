@@ -1,0 +1,10 @@
+[package]
+name = "a"
+version = "0.0.1"
+authors = ["someone"]
+
+[dependencies.c]
+path = "deps/c"
+
+[dependencies.b]
+path = "deps/b"

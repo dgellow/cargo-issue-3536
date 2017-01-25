@@ -1,0 +1,8 @@
+[package]
+name = "b"
+version = "0.0.1"
+author = ["someone else"]
+
+[lib]
+name = "b"
+path = "lib.rs"

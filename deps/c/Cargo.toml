@@ -1,0 +1,9 @@
+[package]
+name = "c"
+version = "0.0.1"
+authors = ["someone else (again)"]
+build = "build.rs"
+
+[lib]
+name = "c"
+path = "lib.rs"
